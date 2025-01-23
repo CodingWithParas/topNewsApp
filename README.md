@@ -1,16 +1,28 @@
-# topnews
 
-A new Flutter project.
+# Top News App
 
-## Getting Started
+The Top News App is a fast, easy-to-use application that provides users with the latest and most relevant news stories from various categories such as technology, sports, politics, entertainment, and more. Designed for a smooth user experience, it aggregates news from multiple trusted sources to ensure users stay informed about world events in real time.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Real-time News Feed: 
+Stay updated with the latest headlines as they break.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Snapshot
+
+![WhatsApp Image 2025-01-23 at 15 46 07_8d119366](https://github.com/user-attachments/assets/d3c0cdfc-cfbb-4255-a759-a2dd75e6bc53)
+
+![WhatsApp Image 2025-01-23 at 15 46 01_626d9a55](https://github.com/user-attachments/assets/14e105a2-a953-416b-833c-af101145ed0e)
+
+
+## API Reference
+
+https://newsapi.org/
+
+
+
+
+
+
